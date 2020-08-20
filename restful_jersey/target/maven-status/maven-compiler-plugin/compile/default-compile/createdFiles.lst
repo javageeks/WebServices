@@ -1,0 +1,5 @@
+com\meensat\controller\HotelBookingService.class
+com\meensat\TestService.class
+com\meensat\model\Hotel.class
+com\meensat\controller\Bookings.class
+com\meensat\dao\HotelDao.class

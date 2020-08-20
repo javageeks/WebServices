@@ -1,0 +1,4 @@
+com\meensat\servlet\HotelServlet.class
+com\meensat\model\Hotel.class
+com\meensat\dao\HotelDao.class
+com\meensat\TestServlet.class
